@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: pacaur
+  binname: pacaur
+  visiblename: pacaur
+  version: 4.8.6
+  origversion: 4.8.6-3
+  status: unique
+  summary: An AUR helper that minimizes user interaction
+  maintainers:
+    - blackwell@aur
+  licenses:
+    - ISC
+- repo: aur
+  srcname: pacaur-git
+  binname: pacaur-git
+  visiblename: pacaur-git
+  version: 4.8.4.4.gd1064f3
+  origversion: 4.8.4.4.gd1064f3-1
+  status: rolling
+  summary: An AUR helper that minimizes user interaction
+  maintainers:
+    - e5ten@aur
+  licenses:
+    - ISC
