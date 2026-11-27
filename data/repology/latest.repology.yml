@@ -14,8 +14,8 @@
   srcname: pacaur-git
   binname: pacaur-git
   visiblename: pacaur-git
-  version: 4.8.4.4.gd1064f3
-  origversion: 4.8.4.4.gd1064f3-1
+  version: 4.8.6.48.g0b63eda
+  origversion: 4.8.6.48.g0b63eda-2
   status: rolling
   summary: An AUR helper that minimizes user interaction
   maintainers:
